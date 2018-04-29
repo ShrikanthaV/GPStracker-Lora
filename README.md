@@ -12,7 +12,9 @@ Transmitter Module Consist of...
   
   
 By Above Module setup And Transmitter Side & receiver Side Code.
-The Transmitter module can able to get the current GPS location and transmits to Another LoRa module as well as stores that information to SD card with Timestamp. GPS data sent every 15sec intervel
+
+The Transmitter module can able to get the current GPS location and transmits to Another LoRa module as
+well as stores that information to SD card with Timestamp. GPS data sent every 15sec intervel
 
 The Receiver Module can able to get the transmitted info from transmitter and send's Acknowledgment message and strores the received info to SD card with current timestamp
  
