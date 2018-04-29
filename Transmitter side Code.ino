@@ -172,7 +172,7 @@ void loop() {
     timeStamp += String("   GPS info: ");
 
     String dataString="";
-    dataString=timeStamp+packet;
+    dataString=timeStamp+packet; // this is the string write's to SD card txt file
 
 
     //Serial.println(fileName);
